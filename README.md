@@ -1,4 +1,4 @@
-<div align="center">![](repo/logo.png)</div>
+<div align="center"><img src="repo/logo.png"></img></div>
 <h1 align="center">Germainate</h1>
 
 
