@@ -1,4 +1,4 @@
-![](repo.logo.png)
+![](repo/logo.png)
 # Open-source jailbreaking tool for many iOS devices
 
 
