@@ -1,4 +1,4 @@
-![](repo/ipwndfu.png)
+![](https://imgur.com/roCUfhP)
 # Open-source jailbreaking tool for many iOS devices
 
 
